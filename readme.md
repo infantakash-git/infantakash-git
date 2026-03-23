@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=infantakash-git&label=Profile%20views&color=0e75b6&style=flat" alt="infantakash-git" /> </p>
 
-- 🔭 I’m currently working on LOYOLASOFT TECHNOLOGY PRIVATE LIMITED, Krishnagiri, Tamil Nadu FIVE-STAR BUSINESS FINANCE LIMITED, Krishnagiri, Tamil Nadu [College Management System (CMS),ERP](URL : http://erp.hcctrichy.in/ , http://erp.sjctnc.in/, http://erp.auxiliumcollege.net .)
+- 🔭 I’m currently working on LOYOLASOFT TECHNOLOGY PRIVATE LIMITED, Krishnagiri, Tamil Nadu & FIVE-STAR BUSINESS FINANCE LIMITED, Krishnagiri, Tamil Nadu [College Management System (CMS),ERP](URL : http://erp.hcctrichy.in/ , http://erp.sjctnc.in/, http://erp.auxiliumcollege.net .)
 
 - 🌱 I’m currently learning **Aws Cloud & DevOps**
 
