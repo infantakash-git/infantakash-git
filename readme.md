@@ -11,7 +11,8 @@
 
 - 👨‍💻 All of my projects are available at [URL : http://erp.hcctrichy.in/ , http://erp.sjctnc.in/, http://erp.auxiliumcollege.net .](URL : http://erp.hcctrichy.in/ , http://erp.sjctnc.in/, http://erp.auxiliumcollege.net .)
 
-- 💬 Ask me about **Technologies: VPC - Subnet (Public/Private), Peering connection, Transit gateway, Ec2, Load balancer, Target group, Ecs/ECR), Iam, Role, User/groups), KMS, Api gateway, RDS, Elastic search (basic), Lambda & CloudWatch. Tools: GitHub, Kubernetes (K8s), Terraform, Docker, Jenkins(CI/CD pipelines), Visual studio 2022, Microsoft Azure Cloud (SaaS), MYSQL-Workbench.**
+- 💬 Ask me about **Technologies: VPC - Subnet (Public/Private), Peering connection, Transit gateway, Ec2, Load balancer, Target group, Ecs/ECR), Iam, Role, User/groups), KMS, Api gateway, RDS, Elastic search (basic), Lambda & CloudWatch.
+-  Tools: GitHub, Kubernetes (K8s), Terraform, Docker, Jenkins(CI/CD pipelines), Visual studio 2022, Microsoft Azure Cloud (SaaS), MYSQL-Workbench.**
 
 - 📫 How to reach me **infantakash143@gmail.com , +91 6383786348**
 
